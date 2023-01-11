@@ -1,0 +1,13 @@
+{
+  "name": "mongosz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
